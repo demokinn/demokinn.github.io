@@ -1,4 +1,4 @@
 
- div:hover a{
+ a:hover {
 	color: green;
 }
