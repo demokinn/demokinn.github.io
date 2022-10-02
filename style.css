@@ -2,3 +2,12 @@
  a:hover {
 	color: green;
 }
+main{
+display:flex;
+flex: auto
+}
+main article{
+	flex:3;}
+main aside{
+	flex:1
+}
